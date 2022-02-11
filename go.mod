@@ -1,4 +1,4 @@
-module solution
+module homework.one
 
 go 1.17
 
